@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Oregano-Italic.otf.GlyphOrder.ttx"/>
+  <head src="Oregano-Italic.otf._h_e_a_d.ttx"/>
+  <hhea src="Oregano-Italic.otf._h_h_e_a.ttx"/>
+  <maxp src="Oregano-Italic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Oregano-Italic.otf.O_S_2f_2.ttx"/>
+  <name src="Oregano-Italic.otf._n_a_m_e.ttx"/>
+  <cmap src="Oregano-Italic.otf._c_m_a_p.ttx"/>
+  <post src="Oregano-Italic.otf._p_o_s_t.ttx"/>
+  <CFF src="Oregano-Italic.otf.C_F_F_.ttx"/>
+  <GPOS src="Oregano-Italic.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Oregano-Italic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Oregano-Italic.otf._h_m_t_x.ttx"/>
+  <kern src="Oregano-Italic.otf._k_e_r_n.ttx"/>
+</ttFont>
