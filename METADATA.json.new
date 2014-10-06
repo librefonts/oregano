@@ -1,0 +1,33 @@
+{
+  "name": "Oregano",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 44071,
+  "fonts": [
+    {
+      "name": "Oregano",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Oregano-Regular.ttf",
+      "postScriptName": "Oregano-Regular",
+      "fullName": "Oregano",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Oregano\""
+    },
+    {
+      "name": "Oregano",
+      "style": "italic",
+      "weight": 400,
+      "filename": "Oregano-Italic.ttf",
+      "postScriptName": "Oregano-Italic",
+      "fullName": "Oregano-Italic",
+      "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Oregano Italic\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-08-13"
+}
